@@ -1,6 +1,4 @@
-# Fly
-Script
-sorry ts is new idk how to mak3 a script
+
 
 -- MOBILE FLYING MENU
 -- Place inside StarterPlayerScripts as a LocalScript
